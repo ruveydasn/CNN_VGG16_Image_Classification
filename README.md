@@ -16,3 +16,6 @@ aims to develop a model to predict sport types. For this purpose, a
 VGG16 using the Convolutional Neural Network (CNN) model
 We adopted the algorithm. VGG16, which has achieved successful results in the field of computer vision and
 It is a deep learning model used in many classification tasks.
+
+https://www.kaggle.com/datasets/gpiosenka/sports-classification 
+I used the dataset but reduced the sport types down to 19. Types of sports I use;
