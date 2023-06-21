@@ -18,4 +18,5 @@ We adopted the algorithm. VGG16, which has achieved successful results in the fi
 It is a deep learning model used in many classification tasks.
 
 https://www.kaggle.com/datasets/gpiosenka/sports-classification 
-I used the dataset but reduced the sport types down to 19. Types of sports I use;
+I used the dataset but reduced the sport types down to 19. Types of sports I use; ("balance beam","basketball","bike polo","billiards","bowling","cheerleading","figure skating pairs","formula 1 racing","golf","horse racing","pole dancing","rock climbing","sidecar racing","snow boarding","swimming","table tennis","tennis","volleyball","wingsuit flying"]
+
