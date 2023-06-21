@@ -1,5 +1,6 @@
 # CNN_VGG16_Image_Classification
 CLASSIFICATION OF SPORTS TYPES ON VISUAL DATA
+
 This project, by making visual classification on sports visuals, belongs to different sports branches.
 develop a model for automatic recognition and classification of objects.
 aims. This model could be an important tool for the sports industry because sports broadcasting,
